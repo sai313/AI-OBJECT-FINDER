@@ -1,0 +1,18 @@
+body {
+    background-image: url("bg.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    font-size: 25px;
+}
+
+.heading span {
+    font-size: 16px;
+}
+
+canvas {
+    border: 10px ridge white;
+    margin-top: 170px;
+}
